@@ -1,0 +1,187 @@
+[
+    {
+        "Id": "poi_1",
+        "Name": "Park Zdrojowy w Krynicy-Zdroju",
+        "LgdId": "ZdrojKrzeszowice",
+        "Description": "Znany od XIX wieku, park zdrojowy w Krynicy-Zdroju jest jednym z najpiękniejszych miejsc uzdrowiskowych w Polsce, oferując bogatą historię i malownicze krajobrazy.",
+        "Rating": {
+            "Value": 4.5,
+            "Count": 120
+        },
+        "Position": {
+            "Latitude": 49.4211,
+            "Longitude": 20.9591
+        },
+        "PoiType": "Park",
+        "ImageUrl": "https://drive.google.com/uc?export=download&id=1ogpwP3UW6Iuv48WUONAWUZMfo0jPGK4X"
+    },
+    {
+        "Id": "poi_2",
+        "Name": "Muzeum Zamkowe w Malborku",
+        "LgdId": "ZiemiaLubawska",
+        "Description": "Muzeum Zamkowe w Malborku, usytuowane w największym na świecie zamku krzyżackim z XIII wieku, prezentuje bogate zbiory historyczne i artystyczne.",
+        "Rating": {
+            "Value": 4.8,
+            "Count": 200
+        },
+        "Position": {
+            "Latitude": 54.0408,
+            "Longitude": 19.0266
+        },
+        "PoiType": "Castle",
+        "ImageUrl": "https://drive.google.com/uc?export=download&id=1ogpwP3UW6Iuv48WUONAWUZMfo0jPGK4X"
+    },
+    {
+        "Id": "poi_3",
+        "Name": "Wawel - Zamek Królewski w Krakowie",
+        "LgdId": "ZdrojKrzeszowice",
+        "Description": "Zamek Królewski na Wawelu, symbol narodowy i dawna siedziba królów Polski, jest jednym z najcenniejszych zabytków architektonicznych w kraju.",
+        "Rating": {
+            "Value": 4.9,
+            "Count": 320
+        },
+        "Position": {
+            "Latitude": 50.0542,
+            "Longitude": 19.9354
+        },
+        "PoiType": "Castle",
+        "ImageUrl": null
+    },
+    {
+        "Id": "poi_4",
+        "Name": "Bieszczadzki Park Narodowy",
+        "LgdId": "ZiemiaLubawska",
+        "Description": "Bieszczadzki Park Narodowy, położony w sercu Bieszczad, jest rajem dla miłośników przyrody, oferując dzikie krajobrazy, unikalną faunę i florę.",
+        "Rating": {
+            "Value": 4.7,
+            "Count": 150
+        },
+        "Position": {
+            "Latitude": 49.1334,
+            "Longitude": 22.6176
+        },
+        "PoiType": "Park",
+        "ImageUrl": null
+    },
+    {
+        "Id": "poi_5",
+        "Name": "Stare Miasto w Warszawie",
+        "LgdId": "ZdrojKrzeszowice",
+        "Description": "Zabytkowe Stare Miasto w Warszawie, wpisane na listę światowego dziedzictwa UNESCO, zachwyca swoją architekturą, historią i kulturą.",
+        "Rating": {
+            "Value": 4.6,
+            "Count": 275
+        },
+        "Position": {
+            "Latitude": 52.2494,
+            "Longitude": 21.0152
+        },
+        "PoiType": "Other",
+        "ImageUrl": null
+    },
+    {
+        "Id": "poi_6",
+        "Name": "Kopalnia Soli Wieliczka",
+        "LgdId": "ZdrojKrzeszowice",
+        "Description": "Jedna z najstarszych kopalń soli na świecie, wpisana na listę UNESCO.",
+        "PoiType": "Other"
+    },
+    {
+        "Id": "poi_7",
+        "Name": "Puszcza Białowieska",
+        "LgdId": "ZiemiaLubawska",
+        "Description": "Ostatni i największy las pierwotny na Nizinie Europejskiej.",
+        "PoiType": "Park"
+    },
+    {
+        "Id": "poi_8",
+        "Name": "Zamek w Książu",
+        "LgdId": "ZdrojKrzeszowice",
+        "Description": "Trzeci co do wielkości zamek w Polsce, znany z pięknych ogrodów i tajemniczych tuneli.",
+        "PoiType": "Castle"
+    },
+    {
+        "Id": "poi_9",
+        "Name": "Polskie Morskie Oko",
+        "LgdId": "ZiemiaLubawska",
+        "Description": "Największe jezioro w Tatrach, popularne miejsce wypoczynku i turystyki.",
+        "PoiType": "Park"
+    },
+    {
+        "Id": "poi_10",
+        "Name": "Stadion Narodowy w Warszawie",
+        "LgdId": "ZdrojKrzeszowice",
+        "Description": "Wielofunkcyjny stadion, gospodarz ważnych wydarzeń sportowych i kulturalnych.",
+        "PoiType": "Other"
+    },
+    {
+        "Id": "poi_11",
+        "Name": "Rynek Główny w Krakowie",
+        "LgdId": "ZiemiaLubawska",
+        "Description": "Największy średniowieczny rynek w Europie, serce krakowskiego Starego Miasta.",
+        "PoiType": "Other"
+    },
+    {
+        "Id": "poi_12",
+        "Name": "Sanktuarium w Częstochowie",
+        "LgdId": "ZdrojKrzeszowice",
+        "Description": "Duchowe centrum Polski, dom Czarnej Madonny, obiekt pielgrzymek.",
+        "PoiType": "Church"
+    },
+    {
+        "Id": "poi_13",
+        "Name": "Góry Stołowe",
+        "LgdId": "ZiemiaLubawska",
+        "Description": "Unikalny krajobraz, słynny z formacji skalnych i Parku Narodowego Gór Stołowych.",
+        "PoiType": "Park"
+    },
+    {
+        "Id": "poi_14",
+        "Name": "Zamek Czocha",
+        "LgdId": "ZdrojKrzeszowice",
+        "Description": "Średniowieczny zamek, dziś popularna atrakcja turystyczna i miejsce eventów.",
+        "PoiType": "Castle"
+    },
+    {
+        "Id": "poi_15",
+        "Name": "Toruń - Miasto Kopernika",
+        "LgdId": "ZiemiaLubawska",
+        "Description": "Historyczne miasto, miejsce urodzenia Mikołaja Kopernika, znane z gotyckiej architektury.",
+        "PoiType": "Other"
+    },
+    {
+        "Id": "poi_16",
+        "Name": "Łazienki Królewskie w Warszawie",
+        "LgdId": "ZdrojKrzeszowice",
+        "Description": "Najpiękniejszy park w Warszawie, z pałacem na wodzie i wolno żyjącymi pawiami.",
+        "PoiType": "Park"
+    },
+    {
+        "Id": "poi_17",
+        "Name": "Wielka Krokiew w Zakopanem",
+        "LgdId": "ZiemiaLubawska",
+        "Description": "Najsłynniejsza polska skocznia narciarska, miejsce międzynarodowych zawodów.",
+        "PoiType": "Other"
+    },
+    {
+        "Id": "poi_18",
+        "Name": "Wilanów - Pałac Królewski",
+        "LgdId": "ZdrojKrzeszowice",
+        "Description": "Barokowy pałac, zwany polskim Wersalem, otoczony jest pięknymi ogrodami.",
+        "PoiType": "Other"
+    },
+    {
+        "Id": "poi_19",
+        "Name": "Doliny Baryczy",
+        "LgdId": "ZiemiaLubawska",
+        "Description": "Obszar Natura 2000, raj dla ptaków i miłośników przyrody, z największym w Polsce stawem rybnym.",
+        "PoiType": "Park"
+    },
+    {
+        "Id": "poi_20",
+        "Name": "Zamek w Gniewie",
+        "LgdId": "ZiemiaLubawska",
+        "Description": "Zamek krzyżacki z XIII wieku, dziś miejsce rekonstrukcji historycznych i wydarzeń kulturalnych.",
+        "PoiType": "Castle"
+    }
+]
