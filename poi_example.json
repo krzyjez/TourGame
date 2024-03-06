@@ -29,7 +29,7 @@
             "Longitude": 19.0266
         },
         "PoiType": "Castle",
-        "ImageUrl": "https://drive.google.com/uc?export=download&id=1ogpwP3UW6Iuv48WUONAWUZMfo0jPGK4X"
+        "ImageUrl": "https://raw.githubusercontent.com/krzyjez/TourGame/master/mlyn_bogutyn.png"
     },
     {
         "Id": "poi_3",
@@ -45,7 +45,7 @@
             "Longitude": 19.9354
         },
         "PoiType": "Castle",
-        "ImageUrl": null
+        "ImageUrl": "https://raw.githubusercontent.com/krzyjez/TourGame/master/mlyn_bogutyn.png"
     },
     {
         "Id": "poi_4",
@@ -61,7 +61,7 @@
             "Longitude": 22.6176
         },
         "PoiType": "Park",
-        "ImageUrl": null
+        "ImageUrl": "https://raw.githubusercontent.com/krzyjez/TourGame/master/mlyn_bogutyn.png"
     },
     {
         "Id": "poi_5",
