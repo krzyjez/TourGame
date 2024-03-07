@@ -76,7 +76,7 @@
             "Latitude": 52.2494,
             "Longitude": 21.0152
         },
-        "PoiType": "Other",
+        "PoiType": "OtherPoi",
         "ImageUrl": null
     },
     {
@@ -84,7 +84,7 @@
         "Name": "Kopalnia Soli Wieliczka",
         "LgdId": "ZdrojKrzeszowice",
         "Description": "Jedna z najstarszych kopalń soli na świecie, wpisana na listę UNESCO.",
-        "PoiType": "Other"
+        "PoiType": "Landmark"
     },
     {
         "Id": "poi_7",
@@ -112,14 +112,14 @@
         "Name": "Stadion Narodowy w Warszawie",
         "LgdId": "ZdrojKrzeszowice",
         "Description": "Wielofunkcyjny stadion, gospodarz ważnych wydarzeń sportowych i kulturalnych.",
-        "PoiType": "Other"
+        "PoiType": "OtherPoi"
     },
     {
         "Id": "poi_11",
         "Name": "Rynek Główny w Krakowie",
         "LgdId": "ZiemiaLubawska",
         "Description": "Największy średniowieczny rynek w Europie, serce krakowskiego Starego Miasta.",
-        "PoiType": "Other"
+        "PoiType": "OtherPoi"
     },
     {
         "Id": "poi_12",
@@ -147,7 +147,7 @@
         "Name": "Toruń - Miasto Kopernika",
         "LgdId": "ZiemiaLubawska",
         "Description": "Historyczne miasto, miejsce urodzenia Mikołaja Kopernika, znane z gotyckiej architektury.",
-        "PoiType": "Other"
+        "PoiType": "OtherPoi"
     },
     {
         "Id": "poi_16",
@@ -161,14 +161,14 @@
         "Name": "Wielka Krokiew w Zakopanem",
         "LgdId": "ZiemiaLubawska",
         "Description": "Najsłynniejsza polska skocznia narciarska, miejsce międzynarodowych zawodów.",
-        "PoiType": "Other"
+        "PoiType": "OtherPoi"
     },
     {
         "Id": "poi_18",
         "Name": "Wilanów - Pałac Królewski",
         "LgdId": "ZdrojKrzeszowice",
         "Description": "Barokowy pałac, zwany polskim Wersalem, otoczony jest pięknymi ogrodami.",
-        "PoiType": "Other"
+        "PoiType": "Landmark"
     },
     {
         "Id": "poi_19",
