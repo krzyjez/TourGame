@@ -4,7 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "LGD Ziemi Mińskiej"
+                "Name": "LGD Ziemi Mińskiej",
+                "Standard": "EPSG:4326"
             },
             "geometry": {
                 "coordinates": [
