@@ -11,7 +11,38 @@
     }
   },
   "pois":[
-    
+    {
+        "Id": "poi_1",
+        "Name": "Park Zdrojowy w Krynicy-Zdroju",
+        "LgdId": "lgdzmi",
+        "Description": "Znany od XIX wieku, park zdrojowy w Krynicy-Zdroju jest jednym z najpiękniejszych miejsc uzdrowiskowych w Polsce, oferując bogatą historię i malownicze krajobrazy.",
+        "Rating": {
+            "Value": 4.5,
+            "Count": 120
+        },
+        "Position": {
+            "Latitude": 49.4211,
+            "Longitude": 20.9591
+        },
+        "PoiType": "Park",
+        "ImageUrl": "https://drive.google.com/uc?export=download&id=1ogpwP3UW6Iuv48WUONAWUZMfo0jPGK4X"
+    },
+    {
+        "Id": "poi_2",
+        "Name": "Muzeum Zamkowe w Malborku",
+        "LgdId": "lgdzmi",
+        "Description": "Muzeum Zamkowe w Malborku, usytuowane w największym na świecie zamku krzyżackim z XIII wieku, prezentuje bogate zbiory historyczne i artystyczne.",
+        "Rating": {
+            "Value": 2.8,
+            "Count": 200
+        },
+        "Position": {
+            "Latitude": 54.0408,
+            "Longitude": 19.0266
+        },
+        "PoiType": "Castle",
+        "ImageUrl": "https://raw.githubusercontent.com/krzyjez/TourGame/master/malbork.png"
+    }
     
   ]
 }
