@@ -1,8 +1,8 @@
 {
-    "Name": "LGD Ziemi Mińskiej",
+    "name": "LGD Ziemi Mińskiej",
     "boundary": {
-        "Standard": "EPSG:4326",
-        "Resolution": 10,
+        "crs": "EPSG:4326",
+        "resolution": 10,
         "type": "Polygon",
         "coordinates": [
             [
