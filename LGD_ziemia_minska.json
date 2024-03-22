@@ -13,9 +13,9 @@
   "pois":[
     {
         "id": "poi_1",
-        "name": "Park Zdrojowy w Krynicy-Zdroju",
+        "name": "Muzeum Juzefa Piłsudskiego w Sulejówku",
         "lgd_id": "lgdzmi",
-        "description": "Znany od XIX wieku, park zdrojowy w Krynicy-Zdroju jest jednym z najpiękniejszych miejsc uzdrowiskowych w Polsce, oferując bogatą historię i malownicze krajobrazy.",
+        "description": "Ideą Muzeum Józefa Piłsudskiego w Sulejówku jest przedstawienie postaci Józefa Piłsudskiego na szerokim tle historycznym, kulturowym i społecznym oraz przekazanie i upowszechnianie reprezentowanych przez niego wartości, idei walki o niepodległość i pracy nad budową państwa.",
         "rating": {
             "value": 4.5,
             "count": 120
@@ -23,17 +23,17 @@
         "coordinates": {
           "type": "Point",
           "crs": "EPSG:4326",     
-          "x": 49.4211,
-          "y": 20.9591
+          "x": 21.26700472206985,
+          "y": 52.251353653668346
         },
-        "poi_type": "Park",
+        "poi_type": "Museum",
         "image_url": "https://drive.google.com/uc?export=download&id=1ogpwP3UW6Iuv48WUONAWUZMfo0jPGK4X"
     },
     {
         "id": "poi_2",
-        "name": "Muzeum Zamkowe w Malborku",
+        "name": "Pałac Dernałowiczów",
         "lgd_id": "lgdzmi",
-        "description": "Muzeum Zamkowe w Malborku, usytuowane w największym na świecie zamku krzyżackim z XIII wieku, prezentuje bogate zbiory historyczne i artystyczne.",
+        "description": "Pałac Dernałowiczów – zabytkowy zespół pałacowy z chronionymi elementami z XVII, XIX i XX wieku, w Mińsku Mazowieckim. Składa się z pałacu i parku.",
         "rating": {
             "value": 2.8,
             "count": 200
@@ -41,8 +41,8 @@
         "coordinates": {
           "type": "Point",
           "crs": "EPSG:4326",     
-          "x": 49.4211,
-          "y": 20.9591
+          "x": 52.18999718572974, 
+          "y": 21.572691059285372
         },        
         "poi_type": "Castle",
         "image_url": "https://raw.githubusercontent.com/krzyjez/TourGame/master/malbork.png"
