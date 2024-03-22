@@ -23,8 +23,8 @@
         "coordinates": {
           "type": "Point",
           "crs": "EPSG:4326",     
-          "x": 21.26700472206985,
-          "y": 52.251353653668346
+          "x": [21.26700472206985],
+          "y": [52.251353653668346]
         },
         "poi_type": "Museum",
         "image_url": "https://drive.google.com/uc?export=download&id=1ogpwP3UW6Iuv48WUONAWUZMfo0jPGK4X"
@@ -41,8 +41,8 @@
         "coordinates": {
           "type": "Point",
           "crs": "EPSG:4326",     
-          "x": 52.18999718572974, 
-          "y": 21.572691059285372
+          "x": [52.18999718572974], 
+          "y": [21.572691059285372]
         },        
         "poi_type": "Castle",
         "image_url": "https://raw.githubusercontent.com/krzyjez/TourGame/master/malbork.png"
